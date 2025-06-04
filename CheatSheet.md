@@ -1,5 +1,5 @@
 
-# Cheat Sheet DSAI
+# Kobe Sapijn - 2A1@S2
 
 ## Basics
 ```python
